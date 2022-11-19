@@ -6,7 +6,7 @@
 5. Type: cd CS7641/Assignment_4
 6. Type: jupyter notebook
 
-## To open my code related to Forest Management Problem:
+## To open my code related to Forest Management Problem: (Due to the large number of outputs, git preview will crash, so download will be necessary. I did test to make sure it runs locally. Apologies for any inconvenience this might cause).
 7. Open folder with name: "problem_1"
 8. Click: "problem_1.ipynb"
 
